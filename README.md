@@ -1,5 +1,5 @@
 # Nepal-Premier-League-NPL-
-Welcome to the Nepal Premier League (NPL) Analytics Project, a comprehensive data analytics initiative that extracts the cricket data from API in Jupyter Notebook to provide valuable insights using SQL and Power BI. Just so you know, NPL is a T20 domestic cricket league which just started on 30th of NOV
+Welcome to the Nepal Premier League (NPL) Analytics Project, a comprehensive data analytics initiative that extracts the cricket data from API in Jupyter Notebook to provide valuable insights using SQL and Power BI. Just so you know, NPL is a T20 domestic cricket league which just started on 30th Nov, 2024 and edned on 21 Dec, 2024
 
 Project Overview
 
@@ -24,6 +24,7 @@ Power BI
 -Data importation through Postgres database.
 -Then the data was cleaned in Power Query Editor(splitting columns via delimeters, creating custom columns, find and replace, data type check, conversion into numeric for binary 
  columns, etc.)
+ -DAX: Measures and Calcualted columns
 -Dashboard and report design and creation:
   Idedntified the best players in every positon
   Created the best 11 for the ultimate team
@@ -32,15 +33,15 @@ Power BI
 
 PL-Analytics-Project/
 |-- SQL/
-|   |-- create_tables.sql    # SQL script for database schema
-|   |-- insert_data.sql      # SQL script to populate tables
-|   |-- queries.sql          # Custom queries for insights
+|   |-- npl table creation.sql    # SQL script for database schema
+|   |-- npl data insertion and cleaning.sql      # SQL script to populate tables
+|   |-- npl queries.sql          # Custom queries for insights
 |
 |-- PowerBI/
-|   |-- npl_dashboard.pbix   # Power BI report file
+|   |-- NPL EXP.pbix   # Power BI report file
 |
 |-- Python/
-|   |-- api_extraction.py    # Script for API data extraction
+|   |-- NPL preprocessing.ipynb    # Script for API data extraction
 |
 |-- README.md                # Project documentation
 
