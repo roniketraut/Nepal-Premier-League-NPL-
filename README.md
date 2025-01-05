@@ -52,6 +52,10 @@ was converted to
 
 <img src="https://github.com/user-attachments/assets/6daf248a-8d3b-42c7-9c0b-c8c3dd752162" alt="Dashboard Preview" width="600" height="400">
 
+The below measures were created using DAX.
+
+<img src="https://github.com/user-attachments/assets/e158bf9c-41eb-4998-8fbb-e9d413259345" alt="Dashboard Preview" width="400" height="600">
+
 
 The best players in every position was chosen like below:
 
@@ -59,7 +63,7 @@ The best players in every position was chosen like below:
 
 In the above, players in each position can be easily be seen by clicking on the buttons as well.
 
-The torunamen status that can be filtered by teams was created as below:
+The torunament status that can be filtered by teams was created as below:
 
 ![image](https://github.com/user-attachments/assets/dbdba08a-77ba-4956-88e3-6cbe5e3019c4)
 
