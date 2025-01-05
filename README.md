@@ -6,16 +6,24 @@ Project Overview
 This project is a data analysis case study that focuses on the Nepal Premier League cricket tournament. The primary objective is to extract, transform, and analyze cricket data to derive actionable insights and showcase expertise in data analytics, including database management and visualization.
 
 Python
--Data Extraction and transformation
+
+Data Extraction and transformation (https://github.com/roniketraut/Nepal-Premier-League-NPL-/blob/main/NPL%20preprocessing.ipynb)
+
    API Integration: Extracted cricket data from an external API.
+   
    Handling Nested JSONs: Parsed and transformed complex nested JSON structures into tabular formats for database insertion.
 
 SQL
--Database Type: PostgreSQL
--Tables Included: teams, players, match_sum, batting and bowling.
--Schema Design: Optimized for querying and analysis.
--Queries on SQL inlcudes window functions, views, CTEs, subqueries and other complex joins. 
--The queries aim to extract the following insights:
+
+Database Type: PostgreSQL
+
+Tables Included: teams, players, match_sum, batting and bowling.
+
+Schema Design: Optimized for querying and analysis.
+
+Queries on SQL inlcudes window functions, views, CTEs, subqueries and other complex joins.
+
+The queries aim to extract the following insights:
    Player Performance: Analyze batting and bowling statistics to identify top-performing players.
    Team Analysis: Examine team performance trends across matches.
    Match Insights: Identify high-scoring matches, key contributors, and game-changing moments.
