@@ -5,15 +5,15 @@ Project Overview
 
 This project is a data analysis case study that focuses on the Nepal Premier League cricket tournament. The primary objective is to extract, transform, and analyze cricket data to derive actionable insights and showcase expertise in data analytics, including database management and visualization.
 
-Python
+Python (https://github.com/roniketraut/Nepal-Premier-League-NPL-/blob/main/NPL%20preprocessing.ipynb)
 
-Data Extraction and transformation (https://github.com/roniketraut/Nepal-Premier-League-NPL-/blob/main/NPL%20preprocessing.ipynb)
+Data Extraction and transformation 
 
    API Integration: Extracted cricket data from an external API.
    
    Handling Nested JSONs: Parsed and transformed complex nested JSON structures into tabular formats for database insertion.
 
-SQL
+SQL (https://github.com/roniketraut/Nepal-Premier-League-NPL-/blob/main/npl%20table%20creation.sql, https://github.com/roniketraut/Nepal-Premier-League-NPL-/blob/main/npl%20table%20creation.sql, https://github.com/roniketraut/Nepal-Premier-League-NPL-/blob/main/npl%20queries.sql)
 
 Database Type: PostgreSQL
 
@@ -30,11 +30,14 @@ The queries aim to extract the following insights:
 
 Power BI (https://github.com/roniketraut/Nepal-Premier-League-NPL-/blob/main/NPL%20preprocessing.ipynb)
 
--Data importation through Postgres database.
--Data cleaning in Power Query Editor(splitting columns via delimeters, creating custom columns, find and replace, data type check, conversion into numeric for binary 
+Data importation through Postgres database.
+
+Data cleaning in Power Query Editor(splitting columns via delimeters, creating custom columns, find and replace, data type check, conversion into numeric for binary 
  columns, etc.)
- -DAX: Measures and Calcualted columns
--Dashboard and report design and creation:
+ 
+DAX: Measures and Calcualted columns
+
+Dashboard and report design and creation:
   Idedntified the best players in every positon
   Created the best 11 for the ultimate team
   Presented key torunament and team statistics 
