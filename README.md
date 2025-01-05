@@ -50,7 +50,8 @@ The data looking like the below
 
 was converted to 
 
-![image](https://github.com/user-attachments/assets/6daf248a-8d3b-42c7-9c0b-c8c3dd752162)
+<img src="https://github.com/user-attachments/assets/6daf248a-8d3b-42c7-9c0b-c8c3dd752162" alt="Dashboard Preview" width="600" height="400">
+
 
 The best players in every position was chosen like below:
 
