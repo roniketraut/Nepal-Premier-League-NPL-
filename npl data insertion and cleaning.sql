@@ -1,3 +1,4 @@
+-- inserting data into tables from csvs
 COPY teams FROM 'C:/Program Files/PostgreSQL/17/data/teams_final.csv'
 DELIMITER ',' 
 CSV HEADER;
