@@ -52,6 +52,15 @@ was converted to
 
 ![image](https://github.com/user-attachments/assets/6daf248a-8d3b-42c7-9c0b-c8c3dd752162)
 
+The best players in every position was chosen like below:
+
+![image](https://github.com/user-attachments/assets/688a7c58-5ed3-417c-8b3a-59f91c78ef71)
+
+In the above, players in each position can be easily be seen by clicking on the buttons as well.
+
+The torunamen status that can be filtered by teams was created as below:
+
+![image](https://github.com/user-attachments/assets/dbdba08a-77ba-4956-88e3-6cbe5e3019c4)
 
 
 PL-Analytics-Project/
