@@ -21,8 +21,9 @@ SQL
    Match Insights: Identify high-scoring matches, key contributors, and game-changing moments.
 
 Power BI (https://github.com/roniketraut/Nepal-Premier-League-NPL-/blob/main/NPL%20preprocessing.ipynb)
+
 -Data importation through Postgres database.
--Then the data was cleaned in Power Query Editor(splitting columns via delimeters, creating custom columns, find and replace, data type check, conversion into numeric for binary 
+-Data cleaning in Power Query Editor(splitting columns via delimeters, creating custom columns, find and replace, data type check, conversion into numeric for binary 
  columns, etc.)
  -DAX: Measures and Calcualted columns
 -Dashboard and report design and creation:
