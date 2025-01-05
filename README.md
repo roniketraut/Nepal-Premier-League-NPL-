@@ -1,4 +1,4 @@
-# Nepal-Premier-League-NPL-
+![image](https://github.com/user-attachments/assets/32ede7b7-554d-4cba-9db9-8958e178d9ac)# Nepal-Premier-League-NPL-
 Welcome to the Nepal Premier League (NPL) Analytics Project, a comprehensive data analytics initiative that extracts the cricket data from API in Jupyter Notebook to provide valuable insights using SQL and Power BI. Just so you know, NPL is a T20 domestic cricket league which just started on 30th Nov, 2024 and edned on 21 Dec, 2024
 
 Project Overview
@@ -46,11 +46,12 @@ For example,
 
 The data looking like the below 
 
-![Screenshot 2025-01-05 081809](https://github.com/user-attachments/assets/7ca1fc62-5a50-43e6-ad3a-70efe613af00)
+![image](https://github.com/user-attachments/assets/88d03729-c993-43c0-803c-a4ce28dcf4d2)
 
 was converted to 
 
-<img src="https://github.com/user-attachments/assets/6daf248a-8d3b-42c7-9c0b-c8c3dd752162" alt="Dashboard Preview" width="600" height="400">
+<img src="https://github.com/user-attachments/assets/d6d22ac8-3587-4b80-aa2b-2c4d7ca7af76" alt="Dashboard Preview" width="600" height="400">
+
 
 The below measures were created using DAX.
 
