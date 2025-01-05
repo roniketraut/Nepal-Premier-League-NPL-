@@ -42,6 +42,17 @@ Dashboard and report design and creation:
   Created the best 11 for the ultimate team
   Presented key torunament and team statistics 
 
+For example, 
+
+The data looking like the below 
+
+![Screenshot 2025-01-05 081809](https://github.com/user-attachments/assets/7ca1fc62-5a50-43e6-ad3a-70efe613af00)
+
+was converted to 
+
+![image](https://github.com/user-attachments/assets/6daf248a-8d3b-42c7-9c0b-c8c3dd752162)
+
+
 
 PL-Analytics-Project/
 |-- SQL/
