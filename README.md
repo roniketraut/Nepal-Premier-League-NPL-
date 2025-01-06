@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/32ede7b7-554d-4cba-9db9-8958e178d9ac)# Nepal-Premier-League-NPL-
+# Nepal-Premier-League-NPL-
 Welcome to the Nepal Premier League (NPL) Analytics Project, a comprehensive data analytics initiative that extracts the cricket data from API in Jupyter Notebook to provide valuable insights using SQL and Power BI. Just so you know, NPL is a T20 domestic cricket league which just started on 30th Nov, 2024 and edned on 21 Dec, 2024
 
 Project Overview
